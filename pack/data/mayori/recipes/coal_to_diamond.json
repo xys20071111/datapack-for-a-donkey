@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "group": "donkey",
+    "ingredient": {
+        "item": "minecraft:coal"
+    },
+    "result": "minecraft:diamond",
+    "experience": 20,
+    "cookingtime": 100
+}

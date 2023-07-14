@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "group": "donkey",
+    "ingredient": {
+        "tag": "minecraft:iron_ores"
+    },
+    "result": "minecraft:iron_ingot",
+    "cookingtime": 600
+}
